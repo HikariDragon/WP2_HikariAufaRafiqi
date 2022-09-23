@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
  echo"Nama saya Hikari Aufa Rafiqiiii
  Saya tinggal di Surakarta
  olah raga yang saya sukai adalah
- Bulutangkis.";
+ Bulutangkiss.";
  }
 }
